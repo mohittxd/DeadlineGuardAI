@@ -94,6 +94,4 @@ npm start
 - `firestore.rules` enforces per-user access control in Firestore.
 - API routes that touch user data (`/api/sync`) require a valid Firebase ID token via the `requireAuth` middleware.
 
-## 📄 License
 
-This project is provided as-is for personal/educational use.
