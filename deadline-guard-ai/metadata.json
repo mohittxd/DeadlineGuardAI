@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Guard AI",
+  "description": "An urgent task manager and focus assistant with a motivating AI coach to help you beat tight deadlines under pressure.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
